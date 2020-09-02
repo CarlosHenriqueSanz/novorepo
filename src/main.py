@@ -1,2 +1,1 @@
-print('HELLO WORLD; )
-print('Olha esta nova funcioanlidade') 
+print('Ola mundo meu, meu nome é fulano')
